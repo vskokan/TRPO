@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.630,=C:\Users\cvm3708\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,=C:\Users\cvm3708\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,C:\Users\cvm3708\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\cvm3708\Desktop\Лабораторная работа №8\lab8\Skokan.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\cvm3708\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\cvm3708\Desktop\Лабораторная работа №8\lab8\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,=C:\Users\cvm3708\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,=C:\Users\cvm3708\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\cvm3708\Documents\RAD Studio\Projects\Unit1.h=C:\Users\cvm3708\Desktop\Лабораторная работа №8\lab8\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\cvm3708\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\cvm3708\Desktop\Лабораторная работа №8\lab8\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
